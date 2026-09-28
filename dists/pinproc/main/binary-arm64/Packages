@@ -1,0 +1,31 @@
+Package: pinproc
+Version: 0.1.1
+Architecture: arm64
+Maintainer: pinproc contributors
+Installed-Size: 8065
+Homepage: https://github.com/faizahmd2/pinproc
+Priority: optional
+Section: utils
+Filename: pool/main/p/pinproc/pinproc_0.1.1_arm64.deb
+Size: 3315192
+SHA256: a589e131a485ddc2d22e19b9524f45f1904d63b998787d453b2f8d8bdea12ccc
+SHA1: f1f39f913abbb6d2e3c99167f5c51c9200c75b73
+MD5sum: 9819363bb2c9bd6c145410107ee95698
+Description: Read-only Linux machine investigation service
+
+Package: pinproc-provider-jev
+Version: 0.1.1
+Architecture: arm64
+Maintainer: pinproc contributors
+Installed-Size: 5824
+Depends: pinproc
+Homepage: https://github.com/faizahmd2/pinproc
+Priority: optional
+Section: utils
+Filename: pool/main/p/pinproc-provider-jev/pinproc-provider-jev_0.1.1_arm64.deb
+Size: 2413282
+SHA256: 8a3ccf1e12c375063ec5abf09d552033bd8eeb0542d033235a96b589c7777ff7
+SHA1: 59823a62858a9066e0b06ba87735585d69028237
+MD5sum: 8ec60d19ea54a81a0c53388d73a0f36c
+Description: JEV provider for pinproc
+

@@ -1,0 +1,6 @@
+Archive: stable
+Component: main
+Origin: Pinproc
+Label: Pinproc
+Architecture: amd64
+Description: Pinproc APT repository
