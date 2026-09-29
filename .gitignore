@@ -10,6 +10,7 @@ secring.gpg
 
 # Reprepro local database/state
 db/
+conf/
 
 # Temporary files
 *.tmp
