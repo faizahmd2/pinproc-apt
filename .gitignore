@@ -1,0 +1,20 @@
+# GPG private keys
+*-private.asc
+*.private.asc
+*.secret.asc
+
+# GPG local state
+.gnupg/
+gnupg/
+secring.gpg
+
+# Reprepro local database/state
+db/
+
+# Temporary files
+*.tmp
+*.bak
+*~
+
+# OS/editor files
+.DS_Store
