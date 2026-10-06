@@ -1,3 +1,6 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
 Origin: Pinproc
 Label: Pinproc
 Suite: stable
@@ -27,3 +30,19 @@ SHA256:
  faf28625474cd2ae2498fbad8d8d53113e1b63aac08409fbd3e5f6b12b0f26bf 476 main/binary-arm64/Packages
  ab38b545f0e5dd62e29721c8adc0bc810568e087f505a3217ba61109f965b892 357 main/binary-arm64/Packages.gz
  2caa98d073e8491dc90062cc8a54baef238ddf60f2d393dbc0c74908c6ecfdd8 119 main/binary-arm64/Release
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEEVGr6Oh7G/HoFCCG6BNmcfoAXaPMFAmrEpSsACgkQBNmcfoAX
+aPNrLQ//bZRhX6g6h007cZvLahSxQzXTAprLRIABbXZ/J8Ce8q/fpTDWG0wqfYCw
+VU9DIvSZeDeW/mWN1QzdtL7Q6Slm9wSlDAzLmXObSjZxxhfV97GPiHx15xizE39w
+XHYqgwGCoAIRmNSKIWFV/slQmSunoEfha2YEOFfM6GmOSBFebJhs1YE4n2oGBD+Y
+/bv/LIfr/2EG8TBEtNJeR3KegX2CO5IJ8ArIIE3kJOKbiUkr7TKraihVWCC0tswi
+APLw42SKMtMaHRLoQh1OMvMUNeeBaNNncax/cGZ/gW9iPMJNs+lGDLQFMXhwRN3+
+0ejloFcj/6S5twCsbEzcc4L77hV+yF/x+0bAl7lC0bsMK4kcLeSjGiIa7Yet8a1L
+fbFiektMyXOF6yCMB0WgisiHp7+/ieauwnlKOpIhf4Qz3N6o4qRb0dN675VFAXgF
+VbxcbA3a8FZzKvZhCpV5sNDFrPbT2sEsuQ66XSvuigBytqxBeWxFVvap+jnBnqtT
+FboiwM2P/uljckAYuhez3YyPU6vzmmpjsbamv4qeti5fFzNLqFPlD+GvwCVLhfpq
+mdcKkwj2UMFHeGjzjZXl3xiDHzBPeJqBvM9R0Oo0IOXgYO1ddhj3UciujdaDXeDI
+rTj5L8OJU6Dd5BeldyOGMLPOBKEgP64C1LkGcNd2HTaqhpPZes0=
+=S7pf
+-----END PGP SIGNATURE-----
