@@ -1,15 +1,15 @@
 Package: pinproc
-Version: 0.2.0
+Version: 0.2.1
 Architecture: arm64
 Maintainer: pinproc contributors
-Installed-Size: 7682
+Installed-Size: 7746
 Homepage: https://github.com/faizahmd2/pinproc
 Priority: optional
 Section: utils
-Filename: pool/main/p/pinproc/pinproc_0.2.0_arm64.deb
-Size: 3208278
-SHA256: 5d5b01e2a9df2cd330b6e5e319f9fbe811e94ce721cf2934d13df37427e1e967
-SHA1: 4985c3a6af7cff558e75d838c30732fe384ec73b
-MD5sum: 64ca10812358a099f3869b9f4e55e237
+Filename: pool/main/p/pinproc/pinproc_0.2.1_arm64.deb
+Size: 3216818
+SHA256: 54268da74c7d67d050c0b8978216e66e00c325354b56ec56b5c5469d9f28212c
+SHA1: 5a8f17b6ee15c0064622128a20ca8a1481eaf17a
+MD5sum: 52dd3625efec5b3fb9a187797517b363
 Description: Read-only Linux machine investigation service
 
